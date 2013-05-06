@@ -1,0 +1,19 @@
+@import url(//fonts.googleapis.com/css?family=Playfair+Display:400italic,700italic,400,700);
+
+#content {
+    margin-top: 50px;
+}
+
+body {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 2.5em;
+}
+
+button {
+    margin-top: 2em;
+}
